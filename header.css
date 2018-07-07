@@ -1,0 +1,86 @@
+body{
+	margin:0 auto;
+	padding:0;
+}
+#d1{
+	width:1920px;
+	height:41px;
+	background:#F7F7F7;
+	position:relative;
+}
+#d1>img{
+	width:266px;
+	height:38px;
+	margin-left:450px;
+	background:#F7F7F7;
+	position:absolute;
+}
+#d1>div{
+	padding-left:1170px;
+	padding-top:10px;
+	position:absolute;
+}
+#d1>div>a{
+	font-size:12px;
+	color:#4E4E4E;
+	text-decoration:none;
+}
+#loginList a{
+color:#4E4E4E;
+}
+#d1>div b{
+	padding:0px 8px;
+	font-weight:normal;
+	font-size:5px;
+	color:#954E95;
+}
+#d1 .chong{
+	width:550px;
+	height:250px;
+	z-index:100;
+	position:absolute;
+	right:10px;
+}
+* span,div,p,li{font-size:12px;}
+* a{text-decoration:none; color:#000;}
+	.dis{
+		width:550px;
+		height:250px;
+		background:#F3F3F3;
+	}
+	.dis>p{
+		margin:0px;
+		padding:0px;
+		line-height:30px;
+		width:534px;
+		height:30px;
+		text-align:right;
+	}
+	.dis>p>b>a{
+		float:right;
+		width:100px;
+		height:30px;
+		margin-left:-25px;
+	}
+	.dis>p>b>a:hover{
+		text-decoration:underline;
+		color:blue;
+	}
+	.dist{
+		margin:0 auto;
+		width:530px;
+		height:204px;
+	}
+	.dist ul{
+		width:105px;
+		height:206px;
+		margin:0;
+		padding:0px;
+		float:left;
+		background:#fff;
+		border-right:1px solid #F3F3F3;
+	}
+	.dist ul li{width:105px;height:22px;list-style:none;line-height:34px;}
+	.dist ul li span{display:block;width:105px;height:30px;line-height:30px;font-size:14px;background:#E0E0E0;}
+	.dist ul li>a{color:#5A5858;}
+	.dist ul li>a:hover{color:blue;}
