@@ -1,0 +1,29 @@
+.logo{
+margin:0 auto;
+width:980px;
+height:50px;
+position:relative;
+}
+
+.logo>a{
+	display:line-block;
+	background:url(../img/imgs/login_03.png) no-repeat scroll 0px -196px;
+	width:400px;height:54px;position:absolute;top:20px;
+}
+.register{
+	position:absolute;
+	top:34px;
+	right:0;
+}
+.register a{
+	width:88px;
+	height:30px;
+	border:1px solid #707070;
+	color:#707070;
+	font-size:14px;
+    font-family:"微软雅黑";
+	padding:5px 30px 5px 30px;
+	line-height:30px;
+	margin:0 4px;	
+}
+.register a:hover{background:#e7e7e7;}
