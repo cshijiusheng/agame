@@ -1,0 +1,16 @@
+.footer{ width:100%; height:130px; background:#e7e7e7; text-align:center; box-sizing:border-box;padding-top:12px;font-family: "微软雅黑";font-size: 12px;}
+.footer p{ color:#666; font-size:12px;margin:0px; padding:0px 0px 5px 0px;}
+.footer p a{ color:#666; padding:0 5px; border-right:1px solid #707070; display:inline-block; line-height:14px;}
+.footer p a:hover{ text-decoration:underline;}
+.footer p a:last-child{ border-right:0;}
+.footer .ygwab {
+    display:block;
+    width: 200px;
+    margin:0 auto;
+    height:20px;
+    line-height:20px;
+    color:#737373;
+}
+.footer .ygwab img{
+    float:left;
+}
