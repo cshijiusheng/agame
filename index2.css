@@ -1,0 +1,27 @@
+body{margin:0 auto;padding:0px;color:#333;font: 12px/20px "宋体";}
+* span{display:black;}
+* a{text-decoration:none; margin:0px;padding:0px;}
+* li{list-style-type:none;margin:0px;padding:0px;}
+* p{padding:0px;margin:0px;}
+* input{color: rgb(128, 128, 128);background-color: rgba(0, 0, 0, 0);border:none;}
+.denluye{height:750px;background:#333;display:flex;flex-wrap:wrap;justify-content:space-between;}
+.denluye1{width:1920px;background:url(../img/imgs/bg1.jpg) no-repeat;margin:0 auto;}
+.log_head{width:970px;height:700px;margin:0 auto;}
+.log_head1{width:400px;height:325px;margin-top:80px;}
+.log_head2{width:400px;height:43px; background:url(../img/imgs/login_03.png) no-repeat scroll 0px 0px;}
+.log_head2>span{height:40px;line-height:40px; background-repeat: no-repeat;color: #fff;
+		 text-shadow: 0 2px 3px rgba(0, 0, 0, .3); font-size: 18px;padding-left: 25px;}
+.log_gai{width:400px;height:283px;background:#fff;}
+.log_gai1{width:398px;height:280px;}
+.log_p1 input,.log_p3 input{width:300px;height:40px;line-height:42px;padding-left:50px;font-size:14px;margin:0px 0px 0px 22px;}
+.log_p1>input{background:url(../img/imgs/number.png) no-repeat;margin-top:25px;}
+.log_p2{display:block;height:25px;line-height:25px;}
+.log_p2 a{margin-left:280px;color:#797979;}
+.log_p3>input{background:url(../img/imgs/number2.png) no-repeat;}
+.log_p4{width:100px; height:20px;}
+.log_p4 input{width:150px;height:25px;border:1px solid #E3E3E3;margin:20px 20px;text-align:center;}
+.logdiv{width:100px;height:30px;border:1px solid red;float:left;margin-left:180px;display:none;}
+.loga{float:left;margin:6px 10px;color:red;display:none;}
+.log_p5{margin:65px 60px;width:250px; } 
+.logb1{width:104px;height:39px;background:url(../img/imgs/login1.jpg) center center no-repeat;}
+.logb2{width:104px;height:39px;background:url(../img/imgs/login2.jpg) center center no-repeat;}
