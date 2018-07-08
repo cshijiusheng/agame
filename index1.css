@@ -1,0 +1,145 @@
+body{
+	margin:0 auto;
+	padding:0px;
+	color: #333;
+    font: 12px/20px "宋体";
+}
+* span{display:black;}
+* a{text-decoration:none; margin:0px;padding:0px;}
+* li{list-style-type:none;margin:0px;padding:0px;}
+
+.main-bg1{
+	height:670px;
+	background:url(../img/imgs/register_bg.jpg) repeat;
+}
+.main-bg2{
+	width:800px;
+	height:530px;
+	display:black;
+	margin:50px auto 0px;
+}
+.main-bg3{
+	width:798px;
+	height:460px;
+	margin:70px auto;
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-between;
+	background:#fff;
+}
+.main-bg4{
+	background:url(../img/imgs/ti.png) no-repeat;
+	width:800px;height:50px;
+	position:relative;
+
+}
+.main-bg4>h2{
+	color:#fff;
+	position:absolute;
+	font-size:19px;
+	left:50px;
+
+}
+.sidebar{
+	width:163px;
+	height:410px;
+	background:#f2f2f2;
+	padding:0px;
+	margin:0px;
+}
+.clear{padding:0px;}
+.clear>li a{display:block;width:163px;height:61px;position:relative;
+}
+.xing1{
+	background:url(../img/imgs/reg_mul.png) no-repeat scroll 0px 0px;
+	width:163px;height:61px;position:absolute;
+}
+.xin1{
+	background:url(../img/imgs/reg_mul.png) no-repeat scroll 0px -213px;
+	width:163px;height:61px;position:absolute;
+}
+.xing2{
+	background:url(../img/imgs/reg_mul.png) no-repeat scroll 0px -71px;
+	width:163px;height:61px;position:absolute;
+}
+.xin2{
+	background:url(../img/imgs/reg_mul.png) no-repeat scroll 0px -284px;
+	width:163px;height:61px;position:absolute;
+}
+.xing3{
+	background:url(../img/imgs/reg_mul.png) no-repeat scroll 0px -142px;
+	width:163px;height:61px;position:absolute;
+}
+.xin3{
+	background:url(../img/imgs/reg_mul.png) no-repeat scroll 0px -355px;
+	width:163px;height:61px;position:absolute;
+}
+.select{width:634px;height:410px;}
+.select1{width:630px;height:40px;padding-top:26px;}
+.select1>span{   
+	width:117px;
+    float:left;
+    text-align:right;
+    font-size:14px;
+    height:30px;
+	line-height:30px;
+    margin-right:10px;
+    color: #333333;
+}
+#ggii{
+	border:1px solid #a9daef;
+	border-radius:4px;
+	padding:5px 5px 5px 5px;
+	box-shadow:0 0 8px rgba(0, 0, 0, 0.15) inset;
+}
+.clear1{
+	width:583px;
+	height:200px;
+	margin:0px;
+	padding:12px;
+	position:absolute;
+}
+.clear2{
+	width:583px;
+	height:100px;
+	margin:0px;
+	padding:12px;
+	position:absolute;
+	top:490px;
+}
+.clear1 li{width:583px;height:40px;}
+li label{
+	float:left;
+    margin-right:10px;
+    display:block;
+    width:105px;
+    height:30px;
+    line-height:30px;
+    text-align:right;
+    font-size:14px;
+
+}
+.wrap{float:left;margin-right:10px;height:30px;}
+.wrap input{border-radius:4px;border:1px solid #a9daef;
+	box-shadow:0 0 8px rgba(0, 0, 0, 0.15) inset;outline:0;
+}
+.wrap1{width:250px;height:26px;}
+.wrap2{width:73px;height:26px;}
+.wrap3{
+	background:url(../img/imgs/reg_mul.png) no-repeat scroll -2px -428px;
+	width:108px;height:34px;position:absolute;margin:50px -85px;
+	border:none;outline:0;
+}
+.wrap4{width:14px;height:14px;position:absolute;margin:65px 34px;}
+.buttons{float:left;width:190px;height:20px;margin:31px 250px;font-size:10px;color:#3a86d4;}
+.housn{position:absolute;margin:316px 50px;color:gray;width:500px;}
+.wrapp{
+	width:180px;
+	height:25px;
+	border:1px solid rgba(0, 0, 0, 0.15);
+	margin:0px 380px;
+	display:none;
+	background:#F2F2F2;
+}
+.wrapi1,.wrapi4{line-height:25px;}
+.wrapi2,.wrapi3{width:180px;height:40px;}
